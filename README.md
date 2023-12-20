@@ -10,5 +10,17 @@ Then I did some experiments to prove this point.
 ![motivation_data](./fig/motivation_data.png)
 
 ![Result](./fig/Result.png)
+## Citing
 
+If you think TemDep is useful for you, please cite our paper, thank you for your support:
+
+```
+@inproceedings{liu2023temdep,
+title={TemDep: Temporal Dependency Priority for Multivariate Time Series Prediction},
+author={Liu, Shu and Wang, Jiaheng and Chen, Jiamin and Gao, Jianliang and Zhong, Yuhui},
+booktitle={Proceedings of the 32nd ACM International Conference on Information and Knowledge Management},
+pages={4130--4134},
+year={2023}
+}
+```
 
